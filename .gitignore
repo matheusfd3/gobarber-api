@@ -1,5 +1,5 @@
-tmp/*
-!tmp/.gitkeep
+tmp/uploads/*
+!tmp/uploads/.gitkeep
 
 ### Visual Studio Code ###
 
@@ -116,3 +116,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+ormconfig.json
